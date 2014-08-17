@@ -6,6 +6,10 @@
 
 -- _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
+### Open Data
+
+* [DBpedia](http://wiki.dbpedia.org/Datasets) - utilizing a large multi-domain ontology
+
 ### Governmental Data
 
 [Compendium of Governmental Open Data Sources](http://datacatalogs.org/)
