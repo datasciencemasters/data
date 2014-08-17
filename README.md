@@ -9,6 +9,7 @@
 ### Open Data
 
 * [DBpedia](http://wiki.dbpedia.org/Datasets) - utilizing a large multi-domain ontology
+* [Public Data Sets on AWS](https://aws.amazon.com/datasets?_encoding=UTF8&jiveRedirect=1) - common web crawl corpus, NASA satellite imagery, Human Genome, Google Book NGrams, Wikipedia Traffic, Million Song Dataset, Federal Reserve Economic Data, PubChem, more.
 
 ### Governmental Data
 
@@ -16,6 +17,7 @@
 
 * [Data.gov (USA)](http://www.data.gov/)
 * [Africa Open Data](http://africaopendata.org/dataset)
+* [US Census](http://www.census.gov/data/developers/data-sets.html)
 
 ### Non-Governmental Org Data
 
