@@ -13,6 +13,10 @@
 * [Data.gov (USA)](http://www.data.gov/)
 * [Africa Open Data](http://africaopendata.org/dataset)
 
+### Non-Governmental Orgs
+
+* [The World Bank](http://data.worldbank.org/topic/private-sector) - business regulation measures, company-level data in emerging markets, household consumption patterns, World Development Indicators, World Bank finances
+
 ### Other Resources
 
 [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
