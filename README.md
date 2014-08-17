@@ -17,6 +17,10 @@
 
 * [The World Bank](http://data.worldbank.org/topic/private-sector) - business regulation measures, company-level data in emerging markets, household consumption patterns, World Development Indicators, World Bank finances
 
+### Truly Random Data
+
+* [200,000+ Jeopardy! Questions in a JSON file](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
+
 ## Open Data Resources
 
 [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
