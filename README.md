@@ -6,17 +6,17 @@
 
 -- _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
-### Governmental
+### Governmental Data
 
 [Compendium of Governmental Open Data Sources](http://datacatalogs.org/)
 
 * [Data.gov (USA)](http://www.data.gov/)
 * [Africa Open Data](http://africaopendata.org/dataset)
 
-### Non-Governmental Orgs
+### Non-Governmental Org Data
 
 * [The World Bank](http://data.worldbank.org/topic/private-sector) - business regulation measures, company-level data in emerging markets, household consumption patterns, World Development Indicators, World Bank finances
 
-### Other Resources
+## Open Data Resources
 
 [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
