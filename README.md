@@ -8,6 +8,7 @@
 
 ### Open Data
 
+* [List of Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - user-curated
 * [DBpedia](http://wiki.dbpedia.org/Datasets) - utilizing a large multi-domain ontology
 * [Public Data Sets on AWS](https://aws.amazon.com/datasets?_encoding=UTF8&jiveRedirect=1) - common web crawl corpus, NASA satellite imagery, Human Genome, Google Book NGrams, Wikipedia Traffic, Million Song Dataset, Federal Reserve Economic Data, PubChem, more.
 
