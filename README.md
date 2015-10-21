@@ -36,7 +36,6 @@
 ### Truly Random Data
 
 * [200,000+ Jeopardy! Questions in a JSON file](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
-* [10,000 annotated images of cats](http://137.189.35.203/WebUI/CatDatabase/catData.html)
 
 ## Open Data Resources
 
