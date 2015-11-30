@@ -6,6 +6,9 @@
 
 -- _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
+### Lists of Data Sets
+* [Interesting Data Sets for Statisticians](http://rs.io/100-interesting-data-sets-for-statistics/) - editorialized, entertaining set of open data
+
 ### Open Data
 
 * [List of Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - user-curated
