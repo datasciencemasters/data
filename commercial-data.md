@@ -1,5 +1,9 @@
 ## Commercial, Non-Open, or Limited Data Sources
 
+### Data Set Vendors
+
+* [UPenn Linguistic Data Consortium](https://catalog.ldc.upenn.edu/topten)
+
 ### Data Sets
 
 * [Economic Time Series Page](http://www.economagic.com/popular.htm)
