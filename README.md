@@ -48,5 +48,6 @@
 
 * reddit [r/datasets](http://www.reddit.com/r/datasets/)
 * [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
+* [Datasets.co](http://www.datasets.co/)
 
 ^ _license is not truly open, involves some limitations_
